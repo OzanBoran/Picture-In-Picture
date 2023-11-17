@@ -60,7 +60,7 @@ In the JavaScript code, errors are caught using a `try-catch` block. If there ar
 
 ## Deployment
 
-The project is deployed and can be accessed online at: https://ozanboran.github.io/Light-Dark-Mode/
+The project is deployed and can be accessed online at: https://ozanboran.github.io/Picture-In-Picture/
 
 ## Credits
 - **Developer:** Ozan Boran
